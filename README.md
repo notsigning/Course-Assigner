@@ -1,2 +1,5 @@
-# Course-Assigner
-An algorithm to assign each student and teacher at my school a schedule, given each of their preferences.
+# Class Generator
+## Problem Statement:
+Given a large spreadsheet of everyone's course selections,
+optimally assign each student and each teacher a schedule.
+(Currently WIP)
